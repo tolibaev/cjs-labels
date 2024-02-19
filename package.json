@@ -1,0 +1,12 @@
+{
+  "name": "cjs-labels",
+  "version": "1.0.0",
+  "main": "labelsCheck.js",
+  "module": "labels.js",
+  "type": "module",
+  "author": "Rinat",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
